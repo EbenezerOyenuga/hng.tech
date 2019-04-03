@@ -27,7 +27,7 @@
                         <p>Welcome to my website.Welcome to my profile page for hng intern. My name is OYENUGA, Ebenezer. Got about five years experience in web development and about a year expereince in Data Analysis.</p>
                         <br />
                         <h6>Skills</h6>
-                        <p> PHP</p>
+                        <p>C# | PHP | VB.NET</p>
                      </div>
                   </div>
                </div>
